@@ -14,15 +14,27 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #F2BEC7;
 }
 
 .resume-main {
-	background-color: #fffefc;
+    background-color: #F1D2D3;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+    background-color: #FFFFFF;
+}
+
+h1 {font-family:'dancing-script';
+}
+
+h2 {font-family: "Playwrite HU",cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.resume-fontcolor {
+    color: #B4638B;
 }
 
 /* Styles for lists in the document */
